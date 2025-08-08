@@ -7,7 +7,7 @@
     <td width="33.33%"><a href="https://github.com/At-this-moment/pintos"><img src="./assets/posters/pintos_v2.png" alt="Pintos" width="100%"></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/At-this-moment/3r"><strong>Rescue Recon Rover</strong></a></td>
+    <td align="center"><a href="https://github.com/At-this-moment/Rescue-Recon-Rover"><strong>Rescue Recon Rover</strong></a></td>
     <td align="center"><a href="https://github.com/At-this-moment/digital-fortune-cookie"><strong>Digital Fortune Cookie</strong></a></td>
     <td align="center"><a href="https://github.com/At-this-moment/pintos"><strong>Pintos (x86-64)</strong></a></td>
   </tr>
