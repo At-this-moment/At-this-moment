@@ -11,16 +11,27 @@
     <td align="center" width="180"><a href="#"><img src="./assets/posters/project-l.png" alt="Project L" width="180"></a></td>
   </tr>
 
-<!-- 2행: 제목 (레포지토리 링크 포함) -->
+<!-- 2행: 제목 -->
 <tr>
-  <td align="center"><a href="https://github.com/At-this-moment/Rescue-Recon-Rover"><strong><em>Rescue Recon Rover</em></strong></a></td>
-  <td align="center"><a href="https://github.com/At-this-moment/Digital-Fortune-Cookie"><strong><em>Digital Fortune Cookie</em></strong></a></td>
-  <td align="center"><a href="https://github.com/At-this-moment/PintOS"><strong><em>Pintos (x86-64)</em></strong></a></td>
-  <td align="center"><a href="https://github.com/At-this-moment/KlickLab"><strong><em>KlickLab</em></strong></a></td>
-  <td align="center"><a href="https://github.com/At-this-moment/PhantomFlow"><strong><em>PhantomFlow</em></strong></a></td>
-  <td align="center"><a href="https://github.com/At-this-moment/Project-L"><strong><em>Project L</em></strong></a></td>
+  <td align="center"><strong><em>Rescue Recon Rover</em></strong></td>
+  <td align="center"><strong><em>Digital Fortune Cookie</em></strong></td>
+  <td align="center"><strong><em>Pintos (x86-64)</em></strong></td>
+  <td align="center"><strong><em>KlickLab</em></strong></td>
+  <td align="center"><strong><em>PhantomFlow</em></strong></td>
+  <td align="center"><strong><em>Project L</em></strong></td>
 </tr>
 
+
+
+  <!-- 3행: Repository 링크 -->
+  <tr>
+    <td align="center"><a href="#">Repository</a></td>
+    <td align="center"><a href="#">Repository</a></td>
+    <td align="center"><a href="#">Repository</a></td>
+    <td align="center"><a href="#">Repository</a></td>
+    <td align="center"><a href="#">Repository</a></td>
+    <td align="center"><a href="#">Repository</a></td>
+  </tr>
 
   <!-- 4행: Article / Notes 링크 -->
   <tr>
