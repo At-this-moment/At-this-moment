@@ -11,15 +11,17 @@
     <td align="center" width="180"><a href="#"><img src="./assets/posters/project-l.png" alt="Project L" width="180"></a></td>
   </tr>
 
-  <!-- 2행: 제목 -->
-  <tr>
-    <td align="center"><strong>3R — Rescue Recon Rover</strong></td>
-    <td align="center"><strong>Digital Fortune Cookie</strong></td>
-    <td align="center"><strong>PintOS (x86-64)</strong></td>
-    <td align="center"><strong>KlickLab</strong></td>
-    <td align="center"><strong>PhantomFlow</strong></td>
-    <td align="center"><strong>Project L</strong></td>
-  </tr>
+<!-- 2행: 제목 -->
+<tr>
+  <td align="center"><strong><em>3R</em></strong></td>
+  <td align="center"><strong><em>Digital Fortune Cookie</em></strong></td>
+  <td align="center"><strong><em>PintOS (x86-64)</em></strong></td>
+  <td align="center"><strong><em>KlickLab</em></strong></td>
+  <td align="center"><strong><em>PhantomFlow</em></strong></td>
+  <td align="center"><strong><em>Project L</em></strong></td>
+</tr>
+
+
 
   <!-- 3행: Repository 링크 -->
   <tr>
