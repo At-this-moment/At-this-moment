@@ -15,25 +15,45 @@
 
   <!-- 2행: 제목 -->
   <tr>
-    <td align="center"><a href="#"><strong><em>Rescue Recon Rover</em></strong></a></td>
-    <td align="center"><a href="#"><strong><em>Digital Fortune Cookie</em></strong></a></td>
-    <td align="center"><a href="#"><strong><em>Pintos (x86-64)</em></strong></a></td>
-    <td align="center"><a href="#"><strong><em>KlickLab</em></strong></a></td>
-    <td align="center"><a href="#"><strong><em>PhantomFlow</em></strong></a></td>
-    <td align="center"><a href="#"><strong><em>Project L</em></strong></a></td>
+    <td align="center"><strong>Rescue Recon Rover</strong></td>
+    <td align="center"><strong>Digital Fortune Cookie</strong></td>
+    <td align="center"><strong>Pintos (x86-64)</strong></td>
+    <td align="center"><strong>KlickLab</strong></td>
+    <td align="center"><strong>PhantomFlow</strong></td>
+    <td align="center"><strong>Project L</strong></td>
   </tr>
 
-  <!-- 3행: 날짜 -->
+  <!-- 3행: 시작일 -->
+  <tr style="font-size:0.9em; font-style:italic;">
+    <td align="center">2022-09-07</td>
+    <td align="center">2025-03-10</td>
+    <td align="center">2025-05-08</td>
+    <td align="center">2025-06-19</td>
+    <td align="center">2025-07-17</td>
+    <td align="center">2025-08-04</td>
+  </tr>
+
+  <!-- 4행: 종료일 -->
+  <tr style="font-size:0.9em; font-style:italic;">
+    <td align="center">2022-11-04</td>
+    <td align="center">2025-03-13</td>
+    <td align="center">2025-06-12</td>
+    <td align="center">2025-07-26</td>
+    <td align="center">2025-07-26</td>
+    <td align="center">~</td>
+  </tr>
+
+  <!-- 5행: Repository 링크 -->
   <tr>
-    <td align="center">2022‑09‑07 ~ 2022‑11‑04</td>
-    <td align="center">2025‑03‑10 ~ 2025‑03‑13</td>
-    <td align="center">2025‑05‑08 ~ 2025‑06‑12</td>
-    <td align="center">2025‑06‑19 ~ 2025‑07‑26</td>
-    <td align="center">2025‑07‑17 ~ 2025‑07‑26</td>
-    <td align="center">2025‑08‑04 ~</td>
+    <td align="center"><a href="#">Repository</a></td>
+    <td align="center"><a href="#">Repository</a></td>
+    <td align="center"><a href="#">Repository</a></td>
+    <td align="center"><a href="#">Repository</a></td>
+    <td align="center"><a href="#">Repository</a></td>
+    <td align="center"><a href="#">Repository</a></td>
   </tr>
 
-  <!-- 4행: Article / Notes -->
+  <!-- 6행: Article / Notes -->
   <tr>
     <td align="center"><a href="#">Write-up</a></td>
     <td align="center"><a href="#">Article</a></td>
