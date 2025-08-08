@@ -1,4 +1,4 @@
-<h1 align="center">Hyunjae Lee — One-Page Works</h1>
+<h1 align="center">Hyunjae Lee — Project Collection</h1>
 <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse; table-layout:fixed;">
   <!-- 1행 -->
   <tr>
