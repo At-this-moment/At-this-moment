@@ -5,12 +5,12 @@
 <table>
   <!-- 1행: 포스터 이미지 -->
   <tr>
-    <td align="center" style="padding:15px;"><a href="#"><img src="./assets/posters/3r.png" alt="3R – Rescue Recon Rover" height="240"></a></td>
-    <td align="center" style="padding:15px;"><a href="#"><img src="./assets/posters/digital-fortune-cookie.png" alt="Digital Fortune Cookie" height="240"></a></td>
-    <td align="center" style="padding:15px;"><a href="#"><img src="./assets/posters/pintos.png" alt="Pintos" height="240"></a></td>
-    <td align="center" style="padding:15px;"><a href="#"><img src="./assets/posters/klicklab.png" alt="KlickLab" height="240"></a></td>
-    <td align="center" style="padding:15px;"><a href="#"><img src="./assets/posters/phantomflow.png" alt="PhantomFlow" height="240"></a></td>
-    <td align="center" style="padding:15px;"><a href="#"><img src="./assets/posters/project-l.png" alt="Project L" height="240"></a></td>
+    <td align="center"><a href="#"><img src="./assets/posters/3r.png" alt="3R – Rescue Recon Rover" height="240"></a></td>
+    <td align="center"><a href="#"><img src="./assets/posters/digital-fortune-cookie.png" alt="Digital Fortune Cookie" height="240"></a></td>
+    <td align="center"><a href="#"><img src="./assets/posters/pintos.png" alt="Pintos" height="240"></a></td>
+    <td align="center"><a href="#"><img src="./assets/posters/klicklab.png" alt="KlickLab" height="240"></a></td>
+    <td align="center"><a href="#"><img src="./assets/posters/phantomflow.png" alt="PhantomFlow" height="240"></a></td>
+    <td align="center"><a href="#"><img src="./assets/posters/project-l.png" alt="Project L" height="240"></a></td>
   </tr>
 
   <!-- 2행: 제목 (레포 링크 포함) -->
