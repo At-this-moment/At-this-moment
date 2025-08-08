@@ -11,14 +11,14 @@
     <td align="center" width="180"><a href="#"><img src="./assets/posters/project-l.png" alt="Project L" width="180"></a></td>
   </tr>
 
-  <!-- 2행: 제목(레포 링크 포함) -->
+  <!-- 2행: 제목(줄바꿈 방지 + 레포 링크) -->
   <tr>
-    <td align="center"><a href="#" style="text-decoration:none;"><h3 style="margin:0;">3R — Rescue Recon Rover</h3></a></td>
-    <td align="center"><a href="#" style="text-decoration:none;"><h3 style="margin:0;">Digital Fortune Cookie</h3></a></td>
-    <td align="center"><a href="#" style="text-decoration:none;"><h3 style="margin:0;">PintOS (x86-64)</h3></a></td>
-    <td align="center"><a href="#" style="text-decoration:none;"><h3 style="margin:0;">KlickLab</h3></a></td>
-    <td align="center"><a href="#" style="text-decoration:none;"><h3 style="margin:0;">PhantomFlow</h3></a></td>
-    <td align="center"><a href="#" style="text-decoration:none;"><h3 style="margin:0;">Project L</h3></a></td>
+    <td align="center"><a href="#" style="text-decoration:none; white-space:nowrap;"><strong>3R — Rescue Recon Rover</strong></a></td>
+    <td align="center"><a href="#" style="text-decoration:none; white-space:nowrap;"><strong>Digital Fortune Cookie</strong></a></td>
+    <td align="center"><a href="#" style="text-decoration:none; white-space:nowrap;"><strong>PintOS (x86-64)</strong></a></td>
+    <td align="center"><a href="#" style="text-decoration:none; white-space:nowrap;"><strong>KlickLab</strong></a></td>
+    <td align="center"><a href="#" style="text-decoration:none; white-space:nowrap;"><strong>PhantomFlow</strong></a></td>
+    <td align="center"><a href="#" style="text-decoration:none; white-space:nowrap;"><strong>Project L</strong></a></td>
   </tr>
 
   <!-- 3행: Article / Notes 링크 -->
