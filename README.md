@@ -3,12 +3,12 @@
 <table>
   <!-- 1행: 이미지 -->
   <tr>
-    <td align="center" width="150"><a href="#"><img src="./assets/posters/3r.png" alt="3R – Rescue Recon Rover" width="150"></a></td>
-    <td align="center" width="150"><a href="#"><img src="./assets/posters/digital-fortune-cookie.png" alt="Digital Fortune Cookie" width="150"></a></td>
-    <td align="center" width="150"><a href="#"><img src="./assets/posters/pintos.png" alt="PintOS (x86-64)" width="150"></a></td>
-    <td align="center" width="150"><a href="#"><img src="./assets/posters/klicklab.png" alt="KlickLab" width="150"></a></td>
-    <td align="center" width="150"><a href="#"><img src="./assets/posters/phantomflow.png" alt="PhantomFlow" width="150"></a></td>
-    <td align="center" width="150"><a href="#"><img src="./assets/posters/project-l.png" alt="Project L" width="150"></a></td>
+    <td align="center" width="200"><a href="#"><img src="./assets/posters/3r.png" alt="3R – Rescue Recon Rover" width="180"></a></td>
+    <td align="center" width="200"><a href="#"><img src="./assets/posters/digital-fortune-cookie.png" alt="Digital Fortune Cookie" width="180"></a></td>
+    <td align="center" width="200"><a href="#"><img src="./assets/posters/pintos.png" alt="PintOS (x86-64)" width="180"></a></td>
+    <td align="center" width="200"><a href="#"><img src="./assets/posters/klicklab.png" alt="KlickLab" width="180"></a></td>
+    <td align="center" width="200"><a href="#"><img src="./assets/posters/phantomflow.png" alt="PhantomFlow" width="180"></a></td>
+    <td align="center" width="200"><a href="#"><img src="./assets/posters/project-l.png" alt="Project L" width="180"></a></td>
   </tr>
 
   <!-- 2행: 제목 -->
