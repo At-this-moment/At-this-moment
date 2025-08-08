@@ -25,12 +25,12 @@
 
   <!-- 3행: 날짜 -->
   <tr>
-    <td align="center">2023.11</td>
-    <td align="center">2024.01</td>
-    <td align="center">2024.04</td>
-    <td align="center">2024.06</td>
-    <td align="center">2024.07</td>
-    <td align="center">2024.08</td>
+    <td align="center">2022‑09‑07 ~ 2022‑11‑04</td>
+    <td align="center">2025‑03‑10 ~ 2025‑03‑13</td>
+    <td align="center">2025‑05‑08 ~ 2025‑06‑12</td>
+    <td align="center">2025‑06‑19 ~ 2025‑07‑26</td>
+    <td align="center">2025‑07‑17 ~ 2025‑07‑26</td>
+    <td align="center">2025‑08‑04 ~</td>
   </tr>
 
   <!-- 4행: Article / Notes -->
