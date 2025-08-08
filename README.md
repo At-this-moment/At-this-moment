@@ -2,15 +2,15 @@
 
 <div align="center">
 
-<table cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+<table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse; table-layout:fixed;">
   <!-- 1행: 포스터 이미지 -->
   <tr>
-    <td width="180" height="267"><a href="#"><img src="./assets/posters/3r.png" alt="3R – Rescue Recon Rover" width="180" height="267"></a></td>
-    <td width="180" height="267"><a href="#"><img src="./assets/posters/digital-fortune-cookie.png" alt="Digital Fortune Cookie" width="180" height="267"></a></td>
-    <td width="180" height="267"><a href="#"><img src="./assets/posters/pintos.png" alt="Pintos" width="180" height="267"></a></td>
-    <td width="180" height="267"><a href="#"><img src="./assets/posters/klicklab.png" alt="KlickLab" width="180" height="267"></a></td>
-    <td width="180" height="267"><a href="#"><img src="./assets/posters/phantomflow.png" alt="PhantomFlow" width="180" height="267"></a></td>
-    <td width="180" height="267"><a href="#"><img src="./assets/posters/project-l.png" alt="Project L" width="180" height="267"></a></td>
+    <td><a href="#"><img src="./assets/posters/3r.png" alt="3R – Rescue Recon Rover" width="100%"></a></td>
+    <td><a href="#"><img src="./assets/posters/digital-fortune-cookie.png" alt="Digital Fortune Cookie" width="100%"></a></td>
+    <td><a href="#"><img src="./assets/posters/pintos.png" alt="Pintos" width="100%"></a></td>
+    <td><a href="#"><img src="./assets/posters/klicklab.png" alt="KlickLab" width="100%"></a></td>
+    <td><a href="#"><img src="./assets/posters/phantomflow.png" alt="PhantomFlow" width="100%"></a></td>
+    <td><a href="#"><img src="./assets/posters/project-l.png" alt="Project L" width="100%"></a></td>
   </tr>
 
   <!-- 2행: 제목 -->
@@ -33,7 +33,7 @@
     <td align="center">2024.08</td>
   </tr>
 
-  <!-- 4행: Article -->
+  <!-- 4행: Article / Notes -->
   <tr>
     <td align="center"><a href="#">Write-up</a></td>
     <td align="center"><a href="#">Article</a></td>
