@@ -1,4 +1,6 @@
 <h1 align="center">Hyunjae Lee — Project Collection</h1>
+<p align="center"><em>Click on any image to visit its repository.</em></p>
+
 <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse; table-layout:fixed;">
   <!-- 1행 -->
   <tr>
