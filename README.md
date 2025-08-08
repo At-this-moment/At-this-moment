@@ -13,8 +13,8 @@
 
 <!-- 2행: 제목 -->
 <tr>
-  <td align="center"><strong><em>3R</em></strong></td>
-  <td align="center"><strong><em>디지털포춘쿠키</em></strong></td>
+  <td align="center"><strong><em>Rescue Recon Rover</em></strong></td>
+  <td align="center"><strong><em>Digital Fortune Cookie</em></strong></td>
   <td align="center"><strong><em>Pintos (x86-64)</em></strong></td>
   <td align="center"><strong><em>KlickLab</em></strong></td>
   <td align="center"><strong><em>PhantomFlow</em></strong></td>
