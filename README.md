@@ -11,14 +11,14 @@
     <td align="center" width="180"><a href="#"><img src="./assets/posters/project-l.png" alt="Project L" width="180"></a></td>
   </tr>
 
-  <!-- 2행: 제목 (크게) -->
+  <!-- 2행: 제목 (굵고 색상 강조) -->
   <tr>
-    <td align="center"><h3 style="margin:0;">3R — Rescue Recon Rover</h3></td>
-    <td align="center"><h3 style="margin:0;">Digital Fortune Cookie</h3></td>
-    <td align="center"><h3 style="margin:0;">PintOS (x86-64)</h3></td>
-    <td align="center"><h3 style="margin:0;">KlickLab</h3></td>
-    <td align="center"><h3 style="margin:0;">PhantomFlow</h3></td>
-    <td align="center"><h3 style="margin:0;">Project L</h3></td>
+    <td align="center"><span style="font-size:1.05em; font-weight:900; color:#d32f2f;">3R — Rescue Recon Rover</span></td>
+    <td align="center"><span style="font-size:1.05em; font-weight:900; color:#1976d2;">Digital Fortune Cookie</span></td>
+    <td align="center"><span style="font-size:1.05em; font-weight:900; color:#388e3c;">PintOS (x86-64)</span></td>
+    <td align="center"><span style="font-size:1.05em; font-weight:900; color:#f57c00;">KlickLab</span></td>
+    <td align="center"><span style="font-size:1.05em; font-weight:900; color:#7b1fa2;">PhantomFlow</span></td>
+    <td align="center"><span style="font-size:1.05em; font-weight:900; color:#455a64;">Project L</span></td>
   </tr>
 
   <!-- 3행: Repository 링크 -->
