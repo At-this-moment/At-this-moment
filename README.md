@@ -18,7 +18,7 @@
 
   <!-- 2행 -->
   <tr>
-    <td width="25%"><a href="https://github.com/At-this-moment/KRAFTON-JUNGLE-W14-Lightningboard"><img src="./assets/posters/lightning_v1.png" alt="Lightning" width="100%"></a></td>
+    <td width="25%"><a href="https://github.com/At-this-moment/KRAFTON-JUNGLE-W14-Lightningboard"><img src="./assets/posters/lightning_v2.png" alt="Lightning" width="100%"></a></td>
     <td width="25%"><a href="https://github.com/Eatventory"><img src="./assets/posters/klicklab_v2.png" alt="KlickLab" width="100%"></a></td>
     <td width="25%"><a href="https://github.com/Eatventory/PhantomFlow"><img src="./assets/posters/phantomflow_v2.png" alt="PhantomFlow" width="100%"></a></td>
     <td width="25%"><a href="https://github.com/At-this-moment/Project-L"><img src="./assets/posters/project-l_v2.png" alt="Project L" width="100%"></a></td>
