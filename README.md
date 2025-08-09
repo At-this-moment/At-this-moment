@@ -12,7 +12,7 @@
   <tr>
     <td align="center"><a href="https://github.com/At-this-moment/Rescue-Recon-Rover"><strong>Rescue Recon Rover</strong></a></td>
     <td align="center"><a href="https://github.com/At-this-moment/KRAFTON-JUNGLE-W0-Digital-Fortune-Cookie"><strong>Digital Fortune Cookie</strong></a></td>
-    <td align="center"><a href="https://github.com/Computer-Hardware-Industry-Perspective/CHIP"><strong>CHIP</strong></a></td>
+    <td align="center"><a href="https://github.com/Computer-Hardware-Industry-Perspective/CHIP"><strong>C.H.I.P</strong></a></td>
     <td align="center"><a href="https://github.com/At-this-moment/KRAFTON-JUNGLE-W9-PintOS-Threads"><strong>Pintos (x86-64)</strong></a></td>
   </tr>
 
