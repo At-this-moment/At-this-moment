@@ -7,7 +7,7 @@
     <td width="25%"><a href="https://github.com/At-this-moment/Rescue-Recon-Rover"><img src="./assets/posters/3r_v3.png" alt="3R – Rescue Recon Rover" width="100%"></a></td>
     <td width="25%"><a href="https://github.com/At-this-moment/KRAFTON-JUNGLE-W0-Digital-Fortune-Cookie"><img src="./assets/posters/digital-fortune-cookie_v2.png" alt="Digital Fortune Cookie" width="100%"></a></td>
     <td width="25%"><a href="https://github.com/Computer-Hardware-Industry-Perspective/CHIP"><img src="./assets/posters/chips_v1.png" alt="CHIP" width="100%"></a></td>
-    <td width="25%"><a href="https://github.com/At-this-moment/KRAFTON-JUNGLE-W9-PintOS-Threads"><img src="./assets/posters/pintos_v2.png" alt="Pintos" width="100%"></a></td>
+    <td width="25%"><a href="https://github.com/At-this-moment/KRAFTON-JUNGLE-W9-PintOS-Threads"><img src="./assets/posters/pintos_v3.png" alt="Pintos" width="100%"></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/At-this-moment/Rescue-Recon-Rover"><strong>Rescue Recon Rover</strong></a></td>
