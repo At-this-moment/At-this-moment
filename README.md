@@ -24,7 +24,7 @@
     <td width="20%"><a href="https://github.com/Eatventory"><img src="./assets/posters/klicklab_v3.png" alt="KlickLab" width="100%"></a></td>
     <td width="20%"><a href="https://github.com/Eatventory/PhantomFlow"><img src="./assets/posters/phantomflow_v2.png" alt="PhantomFlow" width="100%"></a></td>
     <td width="20%"><a href="https://github.com/At-this-moment/Project-L"><img src="./assets/posters/project-l_v2.png" alt="Project L" width="100%"></a></td>
-    <td width="20%"><a href="https://github.com/At-this-moment/Attendly"><img src="./assets/posters/attendly.png" alt="Attendly" width="100%"></a></td>
+    <td width="20%"><a href="https://github.com/At-this-moment/Attendly"><img src="./assets/posters/attendly_v2.png" alt="Attendly" width="100%"></a></td>
     <td width="20%"><!-- 빈 칸 (추가 예정) --></td>
   </tr>
   <!-- 2행: 제목 -->
