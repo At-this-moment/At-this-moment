@@ -25,7 +25,7 @@
     <td width="20%"><a href="https://github.com/Eatventory/PhantomFlow"><img src="./assets/posters/phantomflow_v2.png" alt="PhantomFlow" width="100%"></a></td>
     <td width="20%"><a href="https://github.com/At-this-moment/Project-L"><img src="./assets/posters/project-l_v2.png" alt="Project L" width="100%"></a></td>
     <td width="20%"><a href="https://github.com/At-this-moment/Attendly"><img src="./assets/posters/attendly_v2.png" alt="Attendly" width="100%"></a></td>
-    <td width="20%"><a href="https://github.com/C6B4/Equation"><img src="./assets/posters/equation.png" alt="Equation" width="100%"></a></td>
+    <td width="20%"><a href="https://github.com/C6B4/Equation"><img src="./assets/posters/equation_v2.jpg" alt="Equation" width="100%"></a></td>
   </tr>
   <!-- 2행: 제목 -->
   <tr>
